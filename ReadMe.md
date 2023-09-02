@@ -1,12 +1,12 @@
 Computer graphics project made using OpenGL. Generates a 3D maze using a depth-first search algorithm
 
-Used software tools:
+Technologies used:
 
 -OpenGL
 
 -CLion IDE
 
--Used programming language: C++
+-C++ programming language
 
 To create the maze I used the Depth-First Search (DFS) algorithm by taking random steps and "collapsing" the wall between them to create a path. The player can move through the maze using the keys: W, S, A and D and browse by moving the mouse.
 
