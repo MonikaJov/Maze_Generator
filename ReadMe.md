@@ -4,7 +4,7 @@ Used software tools:
 
 -OpenGL
 
--CLion
+-CLion IDE
 
 -Used programming language: C++
 
